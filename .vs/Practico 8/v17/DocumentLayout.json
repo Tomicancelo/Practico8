@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|c:\\users\\tmcan\\onedrive\\escritorio\\practico 8\\practico 8\\practico 8\\controllers\\alquilerescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|solutionrelative:practico 8\\controllers\\alquilerescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|c:\\users\\tmcan\\onedrive\\escritorio\\practico 8\\practico 8\\practico 8\\models\\copia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|solutionrelative:practico 8\\models\\copia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|c:\\users\\tmcan\\onedrive\\escritorio\\practico 8\\practico 8\\practico 8\\models\\alquilere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|solutionrelative:practico 8\\models\\alquilere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|c:\\users\\tmcan\\onedrive\\escritorio\\practico 8\\practico 8\\practico 8\\views\\copias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1C138CC-294A-42E4-8DB8-0EA070529491}|Practico 8\\Practico 8.csproj|solutionrelative:practico 8\\views\\copias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Copia.cs",
+              "DocumentMoniker": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Models\\Copia.cs",
+              "RelativeDocumentMoniker": "Practico 8\\Models\\Copia.cs",
+              "ToolTip": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Models\\Copia.cs",
+              "RelativeToolTip": "Practico 8\\Models\\Copia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:50:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlquileresController.cs",
+              "DocumentMoniker": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Controllers\\AlquileresController.cs",
+              "RelativeDocumentMoniker": "Practico 8\\Controllers\\AlquileresController.cs",
+              "ToolTip": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Controllers\\AlquileresController.cs",
+              "RelativeToolTip": "Practico 8\\Controllers\\AlquileresController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:43:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alquilere.cs",
+              "DocumentMoniker": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Models\\Alquilere.cs",
+              "RelativeDocumentMoniker": "Practico 8\\Models\\Alquilere.cs",
+              "ToolTip": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Models\\Alquilere.cs",
+              "RelativeToolTip": "Practico 8\\Models\\Alquilere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:42:57.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Views\\Copias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Practico 8\\Views\\Copias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tmcan\\OneDrive\\Escritorio\\Practico 8\\Practico 8\\Practico 8\\Views\\Copias\\Create.cshtml",
+              "RelativeToolTip": "Practico 8\\Views\\Copias\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:42:47.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
